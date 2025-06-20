@@ -3,7 +3,7 @@ function setup() //called once and program starts
    createCanvas(400,400);
    background(220);
    translate(width/2, height / 2); // Move origin to center of canvas
-   drawAxesWithTicks(); //draws the axes
+   // drawAxesWithTicks(); //draws the axes
 }
   
 function draw() //This runs in a loop to update the display
