@@ -1,0 +1,5 @@
+p5js is a javascript for creatic coding
+
+it helps you easily create graphics, animatons, and visual art on a web page
+
+ps.js runs in the browser using html + JavaScript
